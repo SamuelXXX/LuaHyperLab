@@ -1,6 +1,7 @@
 {
     "configurations": [
         {
+            "name":"Lua",
             "includePath": [
                 "${default}",
                 "${workspaceFolder}/libs/lua/include"
