@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/libs/lua/include"
+            ]
+        }
+    ],
+    "version": 4
+}
